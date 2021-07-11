@@ -16,7 +16,7 @@ async def slow_route():
     #         data = await resp.text()
     #         print(data)
     #         return data
-    return "hello"
+    return "hello123"
             # do something with data
 
 
